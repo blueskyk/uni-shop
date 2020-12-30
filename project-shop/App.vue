@@ -13,5 +13,11 @@
 </script>
 
 <style>
-	/*每个页面公共css */
+	/* 引入字体图标样式 */
+	@import url("./static/font/iconfont.css");
+	
+	.gomeImgLoad {
+		width: 100vw !important;
+		height: auto;
+	}
 </style>
